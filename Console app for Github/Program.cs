@@ -14,10 +14,9 @@ namespace Console_app_for_Github
             for(int i = 0; i < 10; i++){
                 //edit a little bit
                 Console.WriteLine("Number: " + i);
+                //add st, nd, rd, th on the number
 
             //here is a comment from the Visual Studio 2015
-
-            //nothing to do here
             }
         }
     }
