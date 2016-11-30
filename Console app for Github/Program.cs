@@ -12,7 +12,8 @@ namespace Console_app_for_Github
         {
             //todo: some code
             for(int i = 0; i < 10; i++){
-                Console.WriteLine(i);
+                //edit a little bit
+                Console.WriteLine("Number: " + i);
             }
         }
     }
