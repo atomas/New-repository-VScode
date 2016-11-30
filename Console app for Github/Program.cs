@@ -11,6 +11,9 @@ namespace Console_app_for_Github
         static void Main(string[] args)
         {
             //todo: some code
+            for(int i = 0; i < 10; i++){
+                Console.WriteLine(i);
+            }
         }
     }
 }
