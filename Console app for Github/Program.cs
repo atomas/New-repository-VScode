@@ -16,6 +16,8 @@ namespace Console_app_for_Github
                 Console.WriteLine("Number: " + i);
 
             //here is a comment from the Visual Studio 2015
+
+            //nothing to do here
             }
         }
     }
