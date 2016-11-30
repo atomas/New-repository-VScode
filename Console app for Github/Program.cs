@@ -14,6 +14,8 @@ namespace Console_app_for_Github
             for(int i = 0; i < 10; i++){
                 //edit a little bit
                 Console.WriteLine("Number: " + i);
+
+            //here is a comment from the Visual Studio 2015
             }
         }
     }
